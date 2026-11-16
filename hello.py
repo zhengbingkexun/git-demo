@@ -5,7 +5,7 @@ name = "芯火厨娘"
 print(f"你好，{name}！这是我的第一行代码。")
 
 # 1. 变量与计算：算一份订单
-price = 18          # 一份干锅单价（元）
+price = 20          # 一份干锅单价（元）
 count = 3           # 份数
 total = price * count
 print(f"{count} 份干锅，单价 {price} 元，合计 {total} 元")

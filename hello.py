@@ -20,5 +20,3 @@ else:
 days = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
 for d in days:
     print(f"{d}：学 Python 30 分钟")
-python hello.py > out.txt
-Get-Content out.txt | Select-Object -Last 5
